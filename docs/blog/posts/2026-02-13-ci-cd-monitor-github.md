@@ -1,5 +1,6 @@
 ---
 date: 2026-02-13
+slug: ci-cd-monitor-github
 categories:
   - Use Case
 tags:

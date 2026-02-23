@@ -1,5 +1,6 @@
 ---
 date: 2026-02-05
+slug: calendar-management-via-chat
 categories:
   - Use Case
 tags:

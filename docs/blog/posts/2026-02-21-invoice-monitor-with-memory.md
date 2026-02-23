@@ -1,5 +1,6 @@
 ---
 date: 2026-02-21
+slug: invoice-monitor-with-memory
 categories:
   - Use Case
 tags:

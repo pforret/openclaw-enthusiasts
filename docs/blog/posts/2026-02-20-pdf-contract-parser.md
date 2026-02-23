@@ -1,5 +1,6 @@
 ---
 date: 2026-02-20
+slug: pdf-contract-parser
 categories:
   - Use Case
 tags:

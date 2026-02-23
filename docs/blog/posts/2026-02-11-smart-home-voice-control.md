@@ -1,5 +1,6 @@
 ---
 date: 2026-02-11
+slug: smart-home-voice-control
 categories:
   - Use Case
 tags:

@@ -1,5 +1,6 @@
 ---
 date: 2026-02-12
+slug: reddit-digest-bot
 categories:
   - Use Case
 tags:

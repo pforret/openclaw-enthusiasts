@@ -28,7 +28,18 @@
       "Bash(which sips && sips -s format png /Users/pforret/Code/mkdox/openclaw.mkdox/docs/images/reddit-digest.avif --out /Users/pforret/Code/mkdox/openclaw.mkdox/docs/images/reddit-digest.png 2>&1)",
       "Bash(file:*)",
       "Bash(sips:*)",
-      "WebFetch(domain:squidfunk.github.io)"
+      "WebFetch(domain:squidfunk.github.io)",
+      "Bash(cd:*)",
+      "Bash(ls:*)",
+      "Bash(head:*)",
+      "Bash(which gs:*)",
+      "Bash(brew deps:*)",
+      "Bash(tail:*)",
+      "Bash(grep DELEGATES:*)",
+      "Bash(brew search:*)",
+      "Bash(magick:*)",
+      "Bash(grep:*)",
+      "Bash(splashmark:*)"
     ]
   }
 }

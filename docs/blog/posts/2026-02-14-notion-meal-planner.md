@@ -1,5 +1,6 @@
 ---
 date: 2026-02-14
+slug: notion-meal-planner
 categories:
   - Use Case
 tags:

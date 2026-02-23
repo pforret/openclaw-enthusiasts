@@ -1,5 +1,6 @@
 ---
 date: 2026-02-23
+slug: morning-briefing-agent
 categories:
   - Use Case
 tags:

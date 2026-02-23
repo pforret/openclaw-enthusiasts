@@ -1,5 +1,6 @@
 ---
 date: 2026-02-19
+slug: content-research-pipeline
 categories:
   - Use Case
 tags:
