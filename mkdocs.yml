@@ -57,8 +57,6 @@ markdown_extensions:
 plugins:
   - search
   - meta
-  - minify:
-      minify_html: true
   - awesome-pages
   - tags:
       tags_file: tags.md
