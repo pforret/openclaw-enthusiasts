@@ -10,7 +10,7 @@ tags:
   - cron
   - gpt-4o
   - business
-image: images/stripe-revenue.jpg
+image: images/splash-stripe-revenue.jpg
 ---
 
 # Daily Revenue Reports from Stripe
@@ -19,7 +19,7 @@ Get a formatted revenue summary delivered to Slack or Telegram every morning -- 
 
 <!-- more -->
 
-![Daily Revenue Reports from Stripe](../../images/stripe-revenue.jpg)
+![Daily Revenue Reports from Stripe](../../images/splash-stripe-revenue.jpg)
 
 ## What it does
 

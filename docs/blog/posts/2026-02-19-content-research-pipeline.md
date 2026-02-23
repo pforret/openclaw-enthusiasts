@@ -10,7 +10,7 @@ tags:
   - wordpress
   - claude
   - content
-image: images/content-research-pipeline.png
+image: images/splash-content-research-pipeline.png
 ---
 
 # Content Research and Publishing Pipeline
@@ -19,7 +19,7 @@ OpenClaw monitors trending topics in your niche, researches sources, drafts arti
 
 <!-- more -->
 
-![Content Research and Publishing Pipeline](../../images/content-research-pipeline.png)
+![Content Research and Publishing Pipeline](../../images/splash-content-research-pipeline.png)
 
 ## What it does
 

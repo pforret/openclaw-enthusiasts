@@ -71,10 +71,16 @@ plugins:
         as_creation: date
         as_update: date
 
+hooks:
+  - hooks/homepage.py
+
 copyright: "&copy; 2026 <strong>OpenClaw Enthusiasts</strong>
 &bull; by <a href='https://github.com/pforret'>pforret</a> 
 &bull; <a href='https://blog.forret.com'>blog.forret.com</a>
 &bull; Created with <a href='https://github.com/pforret/mkdox'>pforret/mkdox</a>"
+
+extra_css:
+  - stylesheets/homepage.css
 
 extra:
   generator: false

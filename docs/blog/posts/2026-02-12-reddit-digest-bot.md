@@ -8,7 +8,7 @@ tags:
   - cron
   - llama-4
   - content-curation
-image: images/reddit-digest.png
+image: images/splash-reddit-digest.png
 ---
 
 # Reddit Digest Bot on Telegram
@@ -17,7 +17,7 @@ Wake up to a Telegram message with the top posts from your favorite subreddits, 
 
 <!-- more -->
 
-![Reddit Digest Bot on Telegram](../../images/reddit-digest.png)
+![Reddit Digest Bot on Telegram](../../images/splash-reddit-digest.png)
 
 ## What it does
 

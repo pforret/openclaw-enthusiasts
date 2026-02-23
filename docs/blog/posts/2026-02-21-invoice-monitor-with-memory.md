@@ -9,7 +9,7 @@ tags:
   - claude
   - persistent-memory
   - finance
-image: images/invoice-monitor.jpg
+image: images/splash-invoice-monitor.jpg
 ---
 
 # Invoice Monitor That Learns Customer Patterns
@@ -18,7 +18,7 @@ An OpenClaw agent monitors overdue invoices on a schedule, remembers how each cu
 
 <!-- more -->
 
-![Invoice Monitor with Memory](../../images/invoice-monitor.jpg)
+![Invoice Monitor with Memory](../../images/splash-invoice-monitor.jpg)
 
 ## What it does
 

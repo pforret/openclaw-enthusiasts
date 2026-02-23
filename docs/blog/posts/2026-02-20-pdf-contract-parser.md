@@ -9,7 +9,7 @@ tags:
   - claude
   - legal
   - document-processing
-image: images/pdf-contract-parser.png
+image: images/splash-pdf-contract-parser.png
 ---
 
 # PDF Contract Parser with Renewal Tracking
@@ -18,7 +18,7 @@ Feed vendor contracts to OpenClaw and it extracts key terms, SLA obligations, re
 
 <!-- more -->
 
-![PDF Contract Parser](../../images/pdf-contract-parser.png)
+![PDF Contract Parser](../../images/splash-pdf-contract-parser.png)
 
 ## What it does
 

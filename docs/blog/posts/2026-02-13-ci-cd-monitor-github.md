@@ -9,7 +9,7 @@ tags:
   - supabase
   - gpt-4o
   - devops
-image: images/ci-cd-monitor.png
+image: images/splash-ci-cd-monitor.png
 ---
 
 # CI/CD Pipeline Monitor with GitHub Integration
@@ -18,7 +18,7 @@ OpenClaw watches your GitHub repos, alerts on failed builds, creates issues for 
 
 <!-- more -->
 
-![CI/CD Pipeline Monitor](../../images/ci-cd-monitor.png)
+![CI/CD Pipeline Monitor](../../images/splash-ci-cd-monitor.png)
 
 ## What it does
 

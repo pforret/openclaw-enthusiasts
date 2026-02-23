@@ -9,7 +9,7 @@ tags:
   - philips-hue
   - claude
   - smart-home
-image: images/smart-home-control.jpg
+image: images/splash-smart-home-control.jpg
 ---
 
 # Smart Home Control via Messaging
@@ -18,7 +18,7 @@ Text "movie mode" to your OpenClaw agent and it dims the lights, closes the blin
 
 <!-- more -->
 
-![Smart Home Control via Messaging](../../images/smart-home-control.jpg)
+![Smart Home Control via Messaging](../../images/splash-smart-home-control.jpg)
 
 ## What it does
 

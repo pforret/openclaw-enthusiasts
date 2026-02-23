@@ -8,7 +8,7 @@ tags:
   - google-calendar
   - claude
   - scheduling
-image: images/calendar-management.jpg
+image: images/splash-calendar-management.jpg
 ---
 
 # Calendar Management via Chat
@@ -17,7 +17,7 @@ Send a WhatsApp or Telegram message like "Schedule lunch with Sarah Thursday at 
 
 <!-- more -->
 
-![Calendar Management via Chat](../../images/calendar-management.jpg)
+![Calendar Management via Chat](../../images/splash-calendar-management.jpg)
 
 ## What it does
 

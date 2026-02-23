@@ -8,7 +8,7 @@ tags:
   - cron
   - claude
   - meal-planning
-image: images/notion-meal-planner.jpg
+image: images/splash-notion-meal-planner.jpg
 ---
 
 # Weekly Meal Planner with Notion Integration
@@ -17,7 +17,7 @@ OpenClaw generates a full weekly meal plan in Notion, complete with shopping lis
 
 <!-- more -->
 
-![Weekly Meal Planner with Notion](../../images/notion-meal-planner.jpg)
+![Weekly Meal Planner with Notion](../../images/splash-notion-meal-planner.jpg)
 
 ## What it does
 

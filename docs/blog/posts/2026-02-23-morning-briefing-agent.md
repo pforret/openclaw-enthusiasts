@@ -10,7 +10,7 @@ tags:
   - cron
   - claude
   - productivity
-image: images/morning-briefing.jpg
+image: images/splash-morning-briefing.jpg
 ---
 
 # Automated Morning Briefing
@@ -19,7 +19,7 @@ A daily 7 AM message combining weather, calendar, priority tasks, and curated ne
 
 <!-- more -->
 
-![Automated Morning Briefing](../../images/morning-briefing.jpg)
+![Automated Morning Briefing](../../images/splash-morning-briefing.jpg)
 
 ## What it does
 
