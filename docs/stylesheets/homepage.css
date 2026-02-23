@@ -28,6 +28,10 @@
   transform: translateY(-2px);
 }
 
+.post-card__image {
+  position: relative;
+}
+
 .post-card__image img {
   width: 100%;
   height: 180px;
@@ -41,10 +45,15 @@
 }
 
 .post-card__date {
-  display: block;
-  font-size: 0.78rem;
-  color: var(--md-default-fg-color--light);
-  margin-bottom: 0.4rem;
+  position: absolute;
+  bottom: 6px;
+  right: 6px;
+  font-size: 0.65rem;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 2px 7px;
+  border-radius: 3px;
+  margin: 0;
 }
 
 .post-card__title {
