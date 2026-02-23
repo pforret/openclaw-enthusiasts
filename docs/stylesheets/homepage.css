@@ -40,13 +40,13 @@
 }
 
 .post-card__content {
-  padding: 1rem;
+  padding: 0.5rem 1rem 1rem;
   flex: 1;
 }
 
 .post-card__date {
   position: absolute;
-  bottom: 6px;
+  top: 6px;
   right: 6px;
   font-size: 0.65rem;
   color: #fff;
@@ -65,7 +65,7 @@
 }
 
 .post-card__excerpt {
-  font-size: 0.84rem;
+  font-size: 0.75rem;
   color: var(--md-default-fg-color--light);
   line-height: 1.5;
   margin: 0;
