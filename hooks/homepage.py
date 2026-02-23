@@ -5,6 +5,16 @@ import re
 from datetime import datetime
 
 
+def on_config(config, **kwargs):
+    version_file = os.path.join(os.path.dirname(config["config_file_path"]), "VERSION.md")
+    if os.path.exists(version_file):
+        with open(version_file) as f:
+            version = f.read().strip()
+        if version:
+            config["copyright"] = config.get("copyright", "") + f" &bull; v{version}"
+    return config
+
+
 def on_page_markdown(markdown, page, config, files, **kwargs):
     if page.file.src_path != "index.md":
         return markdown
@@ -60,9 +70,13 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
         if len(words) > 100:
             excerpt = " ".join(words[:100]) + " ..."
 
-        # Build URL: blog/YYYY/MM/slug/ (slug derived from title, like the blog plugin)
-        slug = re.sub(r"[^\w\s-]", "", title.lower())
-        slug = re.sub(r"[\s_]+", "-", slug).strip("-")
+        # Build URL: blog/YYYY/MM/slug/ (use frontmatter slug if set, else derive from title)
+        slug_match = re.search(r"^slug:\s*(.+)", frontmatter, re.MULTILINE)
+        if slug_match:
+            slug = slug_match.group(1).strip()
+        else:
+            slug = re.sub(r"[^\w\s-]", "", title.lower())
+            slug = re.sub(r"[\s_]+", "-", slug).strip("-")
         url = f"blog/{date_str[:4]}/{date_str[5:7]}/{slug}/"
 
         posts.append(

@@ -41,7 +41,13 @@
       "Bash(grep:*)",
       "Bash(splashmark:*)",
       "Bash(chmod +x:*)",
-      "Bash(bash:*)"
+      "Bash(bash:*)",
+      "WebFetch(domain:docs.openclaw.ai)",
+      "WebFetch(domain:deepwiki.com)",
+      "WebFetch(domain:x.com)",
+      "Bash(find:*)",
+      "Bash(python3.11 -m mkdocs build -d /tmp/mkdox-test 2>&1 | tail -10 && ls /tmp/mkdox-test/robots.txt /tmp/mkdox-test/llms.txt /tmp/mkdox-test/llms-full.txt 2>&1)",
+      "WebFetch(domain:openclaw.mkdox.com)"
     ]
   }
 }
