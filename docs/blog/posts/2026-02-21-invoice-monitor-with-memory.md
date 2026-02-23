@@ -11,6 +11,7 @@ tags:
   - persistent-memory
   - finance
 image: images/splash-invoice-monitor.jpg
+description: "An OpenClaw agent that monitors overdue invoices, learns customer payment patterns, and adapts follow-up timing and tone automatically."
 ---
 
 # Invoice Monitor That Learns Customer Patterns

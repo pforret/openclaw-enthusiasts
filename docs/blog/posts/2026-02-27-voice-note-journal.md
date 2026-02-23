@@ -12,6 +12,7 @@ tags:
   - productivity
   - journaling
 image: images/splash-voice-note-journal.jpg
+description: "Send a voice memo to WhatsApp or Telegram and OpenClaw transcribes it, extracts action items, and saves a journal entry to Notion."
 ---
 
 # Voice Note to Journal Transcription

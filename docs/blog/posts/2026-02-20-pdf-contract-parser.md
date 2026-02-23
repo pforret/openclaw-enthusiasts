@@ -11,6 +11,7 @@ tags:
   - legal
   - document-processing
 image: images/splash-pdf-contract-parser.png
+description: "Use OpenClaw to extract key terms, SLA obligations, and renewal dates from PDF contracts and push reminders to your project management tool."
 ---
 
 # PDF Contract Parser with Renewal Tracking

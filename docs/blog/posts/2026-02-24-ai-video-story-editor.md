@@ -11,6 +11,7 @@ tags:
   - content
   - multi-agent
 image: images/splash-ai-video-story-editor.jpg
+description: "OpenClaw orchestrates Gemini, Mistral, and Claude to turn 500GB of raw footage into 16 story-edited films with FCPXML timelines."
 ---
 
 # AI Video Story Editor: 500GB of Footage to 16 Films

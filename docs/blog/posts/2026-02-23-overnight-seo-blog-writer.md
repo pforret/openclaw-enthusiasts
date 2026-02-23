@@ -11,6 +11,7 @@ tags:
   - content
   - seo
 image: images/splash-overnight-seo-blog-writer.jpg
+description: "Set up an OpenClaw agent that researches keywords, writes SEO-optimized blog posts overnight, and queues them in your CMS for review."
 ---
 
 # Overnight SEO Blog Writer

@@ -12,6 +12,7 @@ tags:
   - gpt-4o
   - business
 image: images/splash-stripe-revenue.jpg
+description: "Get automated daily revenue reports from Stripe, Google Analytics, and your CRM delivered to Slack or Telegram via OpenClaw."
 ---
 
 # Daily Revenue Reports from Stripe

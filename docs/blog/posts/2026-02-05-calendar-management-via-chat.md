@@ -10,6 +10,7 @@ tags:
   - claude
   - scheduling
 image: images/splash-calendar-management.jpg
+description: "Use OpenClaw to manage Google Calendar events via WhatsApp or Telegram messages — schedule, reschedule, and check conflicts by chat."
 ---
 
 # Calendar Management via Chat

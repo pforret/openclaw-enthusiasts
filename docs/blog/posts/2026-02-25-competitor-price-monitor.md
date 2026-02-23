@@ -12,6 +12,7 @@ tags:
   - e-commerce
   - business
 image: images/splash-competitor-price-monitor.jpg
+description: "Track competitor pricing across e-commerce sites with OpenClaw and get instant Slack or Telegram alerts when prices change."
 ---
 
 # Competitor Price Monitoring

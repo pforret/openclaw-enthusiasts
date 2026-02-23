@@ -76,6 +76,7 @@ plugins:
 
 hooks:
   - hooks/homepage.py
+  - hooks/seo.py
 
 copyright: "&copy; 2026 <strong>OpenClaw Enthusiasts</strong>
 &bull; by <a href='https://github.com/pforret'>pforret</a> 

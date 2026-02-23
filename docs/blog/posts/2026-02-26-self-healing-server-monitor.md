@@ -11,6 +11,7 @@ tags:
   - devops
   - monitoring
 image: images/splash-self-healing-server.jpg
+description: "Build a self-healing server monitor with OpenClaw that diagnoses failures, applies fixes automatically, and escalates only when needed."
 ---
 
 # Self-Healing Server Monitor

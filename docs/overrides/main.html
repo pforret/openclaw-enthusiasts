@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {# OG image from post frontmatter #}
+  {% if page.meta and page.meta.image %}
+    <meta property="og:image" content="{{ config.site_url }}{{ page.meta.image }}" />
+    <meta name="twitter:image" content="{{ config.site_url }}{{ page.meta.image }}" />
+  {% endif %}
+
+  {# Twitter card type #}
+  <meta name="twitter:card" content="summary_large_image" />
+
+  {# Published date for blog posts #}
+  {% if page.meta and page.meta.date %}
+    <meta property="article:published_time" content="{{ page.meta.date }}" />
+  {% endif %}
+
+  {# JSON-LD structured data for blog posts #}
+  {% if page.meta and page.meta.date and page.meta.image %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ page.title | e }}",
+      "image": "{{ config.site_url }}{{ page.meta.image }}",
+      "datePublished": "{{ page.meta.date }}",
+      {% if page.meta.description %}
+      "description": "{{ page.meta.description | e }}",
+      {% endif %}
+      "author": {
+        "@type": "Person",
+        "name": "pforret",
+        "url": "https://blog.forret.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "OpenClaw Enthusiasts",
+        "url": "{{ config.site_url }}"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.canonical_url }}"
+      }
+    }
+    </script>
+  {% endif %}
+{% endblock %}

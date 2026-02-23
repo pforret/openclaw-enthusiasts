@@ -10,6 +10,7 @@ tags:
   - claude
   - meal-planning
 image: images/splash-notion-meal-planner.jpg
+description: "Generate weekly meal plans in Notion with OpenClaw — shopping lists sorted by aisle, weather-aware grilling suggestions, and recipe cataloguing."
 ---
 
 # Weekly Meal Planner with Notion Integration

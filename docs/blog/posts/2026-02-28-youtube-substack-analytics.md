@@ -12,6 +12,7 @@ tags:
   - analytics
   - creator
 image: images/splash-youtube-substack-analytics.jpg
+description: "Get weekly YouTube and Substack analytics delivered to Telegram — subscriber growth, top content, engagement trends, and suggestions."
 ---
 
 # Weekly YouTube and Substack Analytics Reports

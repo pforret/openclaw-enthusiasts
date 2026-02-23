@@ -9,6 +9,7 @@ tags:
   - google-takeout
   - productivity
 image: images/splash-agent-friendly-file-storage.jpg
+description: "When existing cloud storage doesn't work with your AI agent, build a simple replacement — an agent-friendly file storage system with OpenClaw."
 ---
 
 # Build Your Own Agent-Friendly File Storage

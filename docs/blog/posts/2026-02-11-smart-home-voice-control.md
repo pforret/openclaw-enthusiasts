@@ -11,6 +11,7 @@ tags:
   - claude
   - smart-home
 image: images/splash-smart-home-control.jpg
+description: "Control your smart home via WhatsApp or Telegram using OpenClaw and Home Assistant — lights, blinds, thermostat, and custom scenes."
 ---
 
 # Smart Home Control via Messaging

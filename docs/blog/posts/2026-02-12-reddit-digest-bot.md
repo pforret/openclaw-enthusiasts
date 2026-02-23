@@ -10,6 +10,7 @@ tags:
   - llama-4
   - content-curation
 image: images/splash-reddit-digest.png
+description: "Build a Telegram bot with OpenClaw that delivers a daily digest of top Reddit posts filtered to your interests."
 ---
 
 # Reddit Digest Bot on Telegram

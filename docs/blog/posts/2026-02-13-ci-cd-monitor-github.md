@@ -11,6 +11,7 @@ tags:
   - gpt-4o
   - devops
 image: images/splash-ci-cd-monitor.png
+description: "Monitor GitHub CI/CD pipelines with OpenClaw — get Slack alerts on failed builds, auto-create issues for flaky tests, and open fix PRs."
 ---
 
 # CI/CD Pipeline Monitor with GitHub Integration

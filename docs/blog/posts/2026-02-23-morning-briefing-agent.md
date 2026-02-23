@@ -12,6 +12,7 @@ tags:
   - claude
   - productivity
 image: images/splash-morning-briefing.jpg
+description: "Set up a daily morning briefing via WhatsApp or Telegram with OpenClaw — weather, calendar, tasks, and curated news at 7 AM."
 ---
 
 # Automated Morning Briefing

@@ -11,6 +11,7 @@ tags:
   - productivity
   - email
 image: images/splash-email-inbox-triage.jpg
+description: "Let OpenClaw triage your email inbox — sort by urgency, draft replies to routine messages, and auto-unsubscribe from unused newsletters."
 ---
 
 # Email Inbox Triage with Smart Sorting

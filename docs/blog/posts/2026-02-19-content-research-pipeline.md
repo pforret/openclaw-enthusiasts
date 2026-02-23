@@ -12,6 +12,7 @@ tags:
   - claude
   - content
 image: images/splash-content-research-pipeline.png
+description: "Build a content pipeline with OpenClaw that monitors trends, researches sources, drafts articles, and queues them in your CMS with human approval."
 ---
 
 # Content Research and Publishing Pipeline
