@@ -39,7 +39,9 @@
       "Bash(brew search:*)",
       "Bash(magick:*)",
       "Bash(grep:*)",
-      "Bash(splashmark:*)"
+      "Bash(splashmark:*)",
+      "Bash(chmod +x:*)",
+      "Bash(bash:*)"
     ]
   }
 }
