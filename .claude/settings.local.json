@@ -1,7 +1,34 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:www.datacamp.com)",
+      "WebFetch(domain:sidsaladi.substack.com)",
+      "WebFetch(domain:www.forwardfuture.ai)",
+      "WebFetch(domain:nwosunneoma.medium.com)",
+      "WebFetch(domain:creatoreconomy.so)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:travisnicholson.medium.com)",
+      "WebFetch(domain:bibek-poudel.medium.com)",
+      "WebFetch(domain:www.revolutioninai.com)",
+      "WebFetch(domain:www.foxessellfaster.com)",
+      "WebFetch(domain:simplified.com)",
+      "WebFetch(domain:openclawready.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:devopscareers.substack.com)",
+      "WebFetch(domain:www.codecademy.com)",
+      "WebFetch(domain:www.nextgenaiinsight.online)",
+      "WebFetch(domain:vueschool.io)",
+      "Bash(python3:*)",
+      "WebFetch(domain:openclawblog.space)",
+      "WebFetch(domain:alphatechfinance.com)",
+      "WebFetch(domain:www.digitalocean.com)",
+      "WebFetch(domain:www.nxcode.io)",
+      "Bash(which sips && sips -s format png /Users/pforret/Code/mkdox/openclaw.mkdox/docs/images/reddit-digest.avif --out /Users/pforret/Code/mkdox/openclaw.mkdox/docs/images/reddit-digest.png 2>&1)",
+      "Bash(file:*)",
+      "Bash(sips:*)",
+      "WebFetch(domain:squidfunk.github.io)"
     ]
   }
 }
