@@ -1,0 +1,12 @@
+# OpenClaw Enthusiasts
+
+> Practical automation use cases for OpenClaw — the open-source AI agent platform.
+
+This site publishes step-by-step guides showing how to build real-world automations with OpenClaw: from email triage and invoice tracking to server monitoring and video editing pipelines.
+
+## Links
+
+- Website: https://openclaw.mkdox.com/
+- Blog: https://openclaw.mkdox.com/blog/
+- RSS Feed: https://openclaw.mkdox.com/feed_rss_created.xml
+- Full post index for LLMs: https://openclaw.mkdox.com/llms-full.txt

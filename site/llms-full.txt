@@ -1,0 +1,93 @@
+# OpenClaw Enthusiasts — Full Post Index
+
+> 18 blog posts about practical OpenClaw automation use cases.
+
+## Weekly YouTube and Substack Analytics Reports
+- URL: https://openclaw.mkdox.com/blog/2026/02/youtube-substack-analytics/
+- Date: 2026-02-28
+- Description: Get weekly YouTube and Substack analytics delivered to Telegram — subscriber growth, top content, engagement trends, and suggestions.
+
+## Voice Note to Journal Transcription
+- URL: https://openclaw.mkdox.com/blog/2026/02/voice-note-journal/
+- Date: 2026-02-27
+- Description: Send a voice memo to WhatsApp or Telegram and OpenClaw transcribes it, extracts action items, and saves a journal entry to Notion.
+
+## Self-Healing Server Monitor
+- URL: https://openclaw.mkdox.com/blog/2026/02/self-healing-server-monitor/
+- Date: 2026-02-26
+- Description: Build a self-healing server monitor with OpenClaw that diagnoses failures, applies fixes automatically, and escalates only when needed.
+
+## Competitor Price Monitoring
+- URL: https://openclaw.mkdox.com/blog/2026/02/competitor-price-monitor/
+- Date: 2026-02-25
+- Description: Track competitor pricing across e-commerce sites with OpenClaw and get instant Slack or Telegram alerts when prices change.
+
+## Email Inbox Triage with Smart Sorting
+- URL: https://openclaw.mkdox.com/blog/2026/02/email-inbox-triage/
+- Date: 2026-02-24
+- Description: Let OpenClaw triage your email inbox — sort by urgency, draft replies to routine messages, and auto-unsubscribe from unused newsletters.
+
+## AI Video Story Editor: 500GB of Footage to 16 Films
+- URL: https://openclaw.mkdox.com/blog/2026/02/ai-video-story-editor/
+- Date: 2026-02-24
+- Description: OpenClaw orchestrates Gemini, Mistral, and Claude to turn 500GB of raw footage into 16 story-edited films with FCPXML timelines.
+
+## Build Your Own Agent-Friendly File Storage
+- URL: https://openclaw.mkdox.com/blog/2026/02/agent-friendly-file-storage/
+- Date: 2026-02-24
+- Description: When existing cloud storage doesn't work with your AI agent, build a simple replacement — an agent-friendly file storage system with OpenClaw.
+
+## Overnight SEO Blog Writer
+- URL: https://openclaw.mkdox.com/blog/2026/02/overnight-seo-blog-writer/
+- Date: 2026-02-23
+- Description: Set up an OpenClaw agent that researches keywords, writes SEO-optimized blog posts overnight, and queues them in your CMS for review.
+
+## Automated Morning Briefing
+- URL: https://openclaw.mkdox.com/blog/2026/02/morning-briefing-agent/
+- Date: 2026-02-23
+- Description: Set up a daily morning briefing via WhatsApp or Telegram with OpenClaw — weather, calendar, tasks, and curated news at 7 AM.
+
+## Invoice Monitor That Learns Customer Patterns
+- URL: https://openclaw.mkdox.com/blog/2026/02/invoice-monitor-with-memory/
+- Date: 2026-02-21
+- Description: An OpenClaw agent that monitors overdue invoices, learns customer payment patterns, and adapts follow-up timing and tone automatically.
+
+## PDF Contract Parser with Renewal Tracking
+- URL: https://openclaw.mkdox.com/blog/2026/02/pdf-contract-parser/
+- Date: 2026-02-20
+- Description: Use OpenClaw to extract key terms, SLA obligations, and renewal dates from PDF contracts and push reminders to your project management tool.
+
+## Content Research and Publishing Pipeline
+- URL: https://openclaw.mkdox.com/blog/2026/02/content-research-pipeline/
+- Date: 2026-02-19
+- Description: Build a content pipeline with OpenClaw that monitors trends, researches sources, drafts articles, and queues them in your CMS with human approval.
+
+## Daily Revenue Reports from Stripe
+- URL: https://openclaw.mkdox.com/blog/2026/02/stripe-revenue-reports/
+- Date: 2026-02-16
+- Description: Get automated daily revenue reports from Stripe, Google Analytics, and your CRM delivered to Slack or Telegram via OpenClaw.
+
+## Weekly Meal Planner with Notion Integration
+- URL: https://openclaw.mkdox.com/blog/2026/02/notion-meal-planner/
+- Date: 2026-02-14
+- Description: Generate weekly meal plans in Notion with OpenClaw — shopping lists sorted by aisle, weather-aware grilling suggestions, and recipe cataloguing.
+
+## CI/CD Pipeline Monitor with GitHub Integration
+- URL: https://openclaw.mkdox.com/blog/2026/02/ci-cd-monitor-github/
+- Date: 2026-02-13
+- Description: Monitor GitHub CI/CD pipelines with OpenClaw — get Slack alerts on failed builds, auto-create issues for flaky tests, and open fix PRs.
+
+## Reddit Digest Bot on Telegram
+- URL: https://openclaw.mkdox.com/blog/2026/02/reddit-digest-bot/
+- Date: 2026-02-12
+- Description: Build a Telegram bot with OpenClaw that delivers a daily digest of top Reddit posts filtered to your interests.
+
+## Smart Home Control via Messaging
+- URL: https://openclaw.mkdox.com/blog/2026/02/smart-home-voice-control/
+- Date: 2026-02-11
+- Description: Control your smart home via WhatsApp or Telegram using OpenClaw and Home Assistant — lights, blinds, thermostat, and custom scenes.
+
+## Calendar Management via Chat
+- URL: https://openclaw.mkdox.com/blog/2026/02/calendar-management-via-chat/
+- Date: 2026-02-05
+- Description: Use OpenClaw to manage Google Calendar events via WhatsApp or Telegram messages — schedule, reschedule, and check conflicts by chat.
