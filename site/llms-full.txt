@@ -1,6 +1,6 @@
 # OpenClaw Enthusiasts — Full Post Index
 
-> 18 blog posts about practical OpenClaw automation use cases.
+> 19 blog posts about practical OpenClaw automation use cases.
 
 ## Weekly YouTube and Substack Analytics Reports
 - URL: https://openclaw.mkdox.com/blog/2026/02/youtube-substack-analytics/
@@ -21,6 +21,11 @@
 - URL: https://openclaw.mkdox.com/blog/2026/02/competitor-price-monitor/
 - Date: 2026-02-25
 - Description: Track competitor pricing across e-commerce sites with OpenClaw and get instant Slack or Telegram alerts when prices change.
+
+## Build a Powerful SEO Machine
+- URL: https://openclaw.mkdox.com/blog/2026/02/seo-machine-agent-browser/
+- Date: 2026-02-24
+- Description: Use OpenClaw with agent-browser to build a full SEO content machine -- keyword research, competitor analysis, real product screenshots, and CMS publishing in one automated workflow.
 
 ## Email Inbox Triage with Smart Sorting
 - URL: https://openclaw.mkdox.com/blog/2026/02/email-inbox-triage/
