@@ -1,11 +1,16 @@
 # OpenClaw Enthusiasts — Full Post Index
 
-> 19 blog posts about practical OpenClaw automation use cases.
+> 20 blog posts about practical OpenClaw automation use cases.
 
 ## Weekly YouTube and Substack Analytics Reports
 - URL: https://openclaw.mkdox.com/blog/2026/02/youtube-substack-analytics/
 - Date: 2026-02-28
 - Description: Get weekly YouTube and Substack analytics delivered to Telegram — subscriber growth, top content, engagement trends, and suggestions.
+
+## E-Commerce Order Monitor
+- URL: https://openclaw.mkdox.com/blog/2026/02/ecommerce-order-monitor/
+- Date: 2026-02-28
+- Description: Use OpenClaw to monitor e-commerce orders, detect shipping delays automatically, and escalate high-value orders to your team.
 
 ## Voice Note to Journal Transcription
 - URL: https://openclaw.mkdox.com/blog/2026/02/voice-note-journal/
