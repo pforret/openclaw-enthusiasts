@@ -103,24 +103,6 @@ A Go implementation designed to run AI agents on $10 RISC-V boards. Single binar
 
 ---
 
-## TrustClaw
-
-- **URL:** [github.com/miyamoto-labs/trustclaw](https://github.com/miyamoto-labs/trustclaw)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/miyamoto-labs/trustclaw)
-- **By:** Miyamoto Labs
-
-A managed, security-first platform. No self-hosting required -- agents run in TrustClaw's cloud. Every skill is scanned for 70+ malicious patterns before deployment.
-
-**Key differences with OpenClaw:**
-
-- Fully managed cloud -- no server administration
-- OAuth-based connections; agent never sees your API keys
-- Skill marketplace with automated security scanning (credential theft, shell execution, data exfiltration, obfuscation)
-- Best for users who don't want to manage infrastructure
-- Not self-hostable
-
----
-
 ## memU Bot
 
 - **URL:** [github.com/NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot)
@@ -151,7 +133,6 @@ An enterprise-ready alternative built around the memU agentic memory framework. 
 | **NanoBot**   | Python     | Minimal (~4k LOC)      | Low       | Yes         | Minimal         |
 | **ZeroClaw**  | Rust       | Performance (<5 MB)    | <5 MB     | Yes         | Growing         |
 | **PicoClaw**  | Go         | Edge/IoT (<10 MB)      | <10 MB    | Yes         | Limited         |
-| **TrustClaw** | N/A        | Managed cloud security | N/A       | No          | Verified        |
 | **memU Bot**  | Python     | Memory / enterprise    | Moderate  | Yes         | Limited         |
 
 ## Which One Should You Choose?
