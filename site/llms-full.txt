@@ -1,6 +1,11 @@
 # OpenClaw Enthusiasts — Full Post Index
 
-> 20 blog posts about practical OpenClaw automation use cases.
+> 21 blog posts about practical OpenClaw automation use cases.
+
+## IronClaw: Local AI CRM for Lead Enrichment and Outreach
+- URL: https://openclaw.mkdox.com/blog/2026/03/ironclaw-local-ai-crm/
+- Date: 2026-03-04
+- Description: IronClaw turns your Mac into a local AI-powered CRM that scrapes leads, enriches contacts, and runs outreach sequences -- all without cloud services.
 
 ## Weekly YouTube and Substack Analytics Reports
 - URL: https://openclaw.mkdox.com/blog/2026/02/youtube-substack-analytics/
