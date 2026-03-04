@@ -101,11 +101,11 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
 
         cards.append(
             f'<a class="post-card" href="{post["url"]}">'
-            f'<div class="post-card__image">{img}</div>'
+            f'<div class="post-card__image">{img}'
+            f'<time class="post-card__date">{post["date_str"]}</time></div>'
             f'<div class="post-card__content">'
-            f'<time class="post-card__date">{post["date_str"]}</time>'
             f'<h2 class="post-card__title">{post["title"]}</h2>'
-            f'<p class="post-card__excerpt">{post["excerpt"]}</p>'
+            f'<p class="post-x@">{post["excerpt"]}</p>'
             f"</div></a>"
         )
 
