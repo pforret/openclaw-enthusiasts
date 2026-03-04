@@ -1,6 +1,6 @@
 # OpenClaw Enthusiasts
 
-![GitHub](https://img.shields.io/github/license/pforret/openclaw.mkdox)
+![GitHub](https://img.shields.io/github/license/pforret/openclaw-enthusiasts)
 
 A blog about **OpenClaw** automation use cases — real-world examples of what people are building with OpenClaw agents.
 
