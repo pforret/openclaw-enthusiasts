@@ -1,4 +1,4 @@
-# Alternatives
+# Alternatives to OpenClaw
 
 OpenClaw ![GitHub Stars](https://img.shields.io/github/stars/openclaw/openclaw) is the most popular open-source AI agent platform, but it's not the only option. Here's an overview of the main alternatives, what makes each one unique, and how they compare.
 
