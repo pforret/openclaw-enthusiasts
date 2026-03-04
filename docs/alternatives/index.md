@@ -2,12 +2,7 @@
 
 OpenClaw ![GitHub Stars](https://img.shields.io/github/stars/openclaw/openclaw) is the most popular open-source AI agent platform, but it's not the only option. Here's an overview of the main alternatives, what makes each one unique, and how they compare.
 
-## IronClaw
-
-- **URL:** [github.com/nearai/ironclaw](https://github.com/nearai/ironclaw)
-  ![GitHub Stars](https://img.shields.io/github/stars/nearai/ironclaw)
-- **Language:** Rust
-- **By:** NEAR AI
+## [IronClaw](ironclaw.md)
 
 A security-focused reimplementation of OpenClaw. Every tool runs inside an isolated WebAssembly (WASM) sandbox with capability-based permissions. Credentials are stored in an encrypted vault inside a Trusted Execution Environment (TEE) -- the AI never sees raw API keys.
 
@@ -21,13 +16,7 @@ A security-focused reimplementation of OpenClaw. Every tool runs inside an isola
 
 ---
 
-## NanoClaw
-
-- **URL:** [github.com/qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/qwibitai/nanoclaw)
-- **Website:** [nanoclaw.net](https://nanoclaw.net)
-- **Language:** Python
-- **By:** Qwibit.ai
+## [NanoClaw](nanoclaw.md)
 
 A lightweight, container-isolated alternative built on Anthropic's Agents SDK. Each agent runs in its own OS-level container (Apple Container on macOS, Docker on Linux).
 
@@ -42,12 +31,7 @@ A lightweight, container-isolated alternative built on Anthropic's Agents SDK. E
 
 ---
 
-## NanoBot
-
-- **URL:** [github.com/HKUDS/nanobot](https://github.com/HKUDS/nanobot)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot)
-- **Language:** Python
-- **By:** HKUDS Lab
+## [NanoBot](nanobot.md)
 
 An ultra-lightweight personal AI assistant in ~4,000 lines of code -- 99% smaller than OpenClaw. Focuses on simplicity and auditability.
 
@@ -62,12 +46,7 @@ An ultra-lightweight personal AI assistant in ~4,000 lines of code -- 99% smalle
 
 ---
 
-## ZeroClaw
-
-- **URL:** [github.com/zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw)
-- **Website:** [zeroclaw.bot](https://zeroclaw.bot)
-- **Language:** Rust
+## [ZeroClaw](zeroclaw.md)
 
 A Rust-native agent runtime focused on extreme performance and minimal resource usage. Claims 400x performance improvement over OpenClaw.
 
@@ -82,13 +61,7 @@ A Rust-native agent runtime focused on extreme performance and minimal resource 
 
 ---
 
-## PicoClaw
-
-- **URL:** [github.com/sipeed/picoclaw](https://github.com/sipeed/picoclaw)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/sipeed/picoclaw)
-- **Website:** [picoclaw.ai](https://picoclaw.ai)
-- **Language:** Go
-- **By:** Sipeed
+## [PicoClaw](picoclaw.md)
 
 A Go implementation designed to run AI agents on $10 RISC-V boards. Single binary, boots in under 1 second, uses less than 10 MB RAM.
 
@@ -103,12 +76,7 @@ A Go implementation designed to run AI agents on $10 RISC-V boards. Single binar
 
 ---
 
-## memU Bot
-
-- **URL:** [github.com/NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memUBot)
-- **Language:** Python
-- **By:** NevaMind AI
+## [memU Bot](memubot.md)
 
 An enterprise-ready alternative built around the memU agentic memory framework. Designed for long-running, proactive agents that act on accumulated knowledge without prompting.
 
