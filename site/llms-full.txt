@@ -1,6 +1,11 @@
 # OpenClaw Enthusiasts — Full Post Index
 
-> 21 blog posts about practical OpenClaw automation use cases.
+> 22 blog posts about practical OpenClaw automation use cases.
+
+## AI Sales Reporting Automation
+- URL: https://openclaw.mkdox.com/blog/2026/03/sales-reporting-automation/
+- Date: 2026-03-04
+- Description: Automate weekly sales reports with OpenClaw -- pull CRM data, generate AI narratives, format for different audiences, and deliver to Slack at 6 AM Monday.
 
 ## IronClaw: Local AI CRM for Lead Enrichment and Outreach
 - URL: https://openclaw.mkdox.com/blog/2026/03/ironclaw-local-ai-crm/

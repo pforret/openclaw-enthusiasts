@@ -140,5 +140,4 @@ An enterprise-ready alternative built around the memU agentic memory framework. 
 - **Maximum features and integrations:** stick with OpenClaw
 - **Security-first (sandbox/TEE):** IronClaw or NanoClaw
 - **Minimal footprint:** NanoBot (learning), ZeroClaw (production), PicoClaw (edge hardware)
-- **No self-hosting:** TrustClaw
 - **Enterprise memory and proactive agents:** memU Bot
