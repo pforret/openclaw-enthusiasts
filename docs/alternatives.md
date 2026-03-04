@@ -1,11 +1,11 @@
-# OpenClaw Alternatives
+# Alternatives
 
 OpenClaw is the most popular open-source AI agent platform, but it's not the only option. Here's an overview of the main alternatives, what makes each one unique, and how they compare.
 
 ## IronClaw
 
 - **URL:** [github.com/nearai/ironclaw](https://github.com/nearai/ironclaw)
-  ![GitHub Downloads](https://img.shields.io/github/stars/nearai/ironclaw)
+  ![GitHub Stars](https://img.shields.io/github/stars/nearai/ironclaw)
 - **Language:** Rust
 - **By:** NEAR AI
 
@@ -24,7 +24,7 @@ A security-focused reimplementation of OpenClaw. Every tool runs inside an isola
 ## NanoClaw
 
 - **URL:** [github.com/qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
-  ![GitHub Downloads](https://img.shields.io/github/stars/qwibitai/nanoclaw/)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/qwibitai/nanoclaw)
 - **Website:** [nanoclaw.net](https://nanoclaw.net)
 - **Language:** Python
 - **By:** Qwibit.ai
@@ -45,7 +45,7 @@ A lightweight, container-isolated alternative built on Anthropic's Agents SDK. E
 ## NanoBot
 
 - **URL:** [github.com/HKUDS/nanobot](https://github.com/HKUDS/nanobot)
-  ![GitHub Downloads](https://img.shields.io/github/stars/HKUDS/nanobot)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot)
 - **Language:** Python
 - **By:** HKUDS Lab
 
@@ -65,7 +65,7 @@ An ultra-lightweight personal AI assistant in ~4,000 lines of code -- 99% smalle
 ## ZeroClaw
 
 - **URL:** [github.com/zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  ![GitHub Downloads](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw/)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw)
 - **Website:** [zeroclaw.bot](https://zeroclaw.bot)
 - **Language:** Rust
 
@@ -85,7 +85,7 @@ A Rust-native agent runtime focused on extreme performance and minimal resource 
 ## PicoClaw
 
 - **URL:** [github.com/sipeed/picoclaw](https://github.com/sipeed/picoclaw)
-  ![GitHub Downloads](https://img.shields.io/github/downloads/sipeed/picoclaw/total)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/sipeed/picoclaw)
 - **Website:** [picoclaw.ai](https://picoclaw.ai)
 - **Language:** Go
 - **By:** Sipeed
@@ -106,7 +106,7 @@ A Go implementation designed to run AI agents on $10 RISC-V boards. Single binar
 ## TrustClaw
 
 - **URL:** [github.com/miyamoto-labs/trustclaw](https://github.com/miyamoto-labs/trustclaw)
-  ![GitHub Downloads](https://img.shields.io/github/downloads/miyamoto-labs/trustclaw/total)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/miyamoto-labs/trustclaw)
 - **By:** Miyamoto Labs
 
 A managed, security-first platform. No self-hosting required -- agents run in TrustClaw's cloud. Every skill is scanned for 70+ malicious patterns before deployment.
@@ -124,7 +124,7 @@ A managed, security-first platform. No self-hosting required -- agents run in Tr
 ## memU Bot
 
 - **URL:** [github.com/NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot)
-  ![GitHub Downloads](https://img.shields.io/github/downloads/NevaMind-AI/memUBot/total)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memUBot)
 - **Language:** Python
 - **By:** NevaMind AI
 
@@ -143,16 +143,16 @@ An enterprise-ready alternative built around the memU agentic memory framework. 
 
 ## Comparison Table
 
-| Project      | Language   | Focus                    | RAM Usage | Self-hosted | Skill Ecosystem |
-|--------------|------------|--------------------------|-----------|-------------|-----------------|
-| **OpenClaw** | TypeScript | Full-featured agent      | 1 GB+     | Yes         | ClawHub (2800+) |
-| **IronClaw** | Rust       | WASM sandbox security    | Moderate  | Yes         | Compatible      |
-| **NanoClaw** | Python     | Container isolation      | Low       | Yes         | Limited         |
-| **NanoBot**  | Python     | Minimal (~4k LOC)        | Low       | Yes         | Minimal         |
-| **ZeroClaw** | Rust       | Performance (<5 MB)      | <5 MB     | Yes         | Growing         |
-| **PicoClaw** | Go         | Edge/IoT (<10 MB)        | <10 MB    | Yes         | Limited         |
-| **TrustClaw** | N/A       | Managed cloud security   | N/A       | No          | Verified        |
-| **memU Bot** | Python     | Memory / enterprise      | Moderate  | Yes         | Limited         |
+| Project       | Language   | Focus                  | RAM Usage | Self-hosted | Skill Ecosystem |
+|---------------|------------|------------------------|-----------|-------------|-----------------|
+| **OpenClaw**  | TypeScript | Full-featured agent    | 1 GB+     | Yes         | ClawHub (2800+) |
+| **IronClaw**  | Rust       | WASM sandbox security  | Moderate  | Yes         | Compatible      |
+| **NanoClaw**  | Python     | Container isolation    | Low       | Yes         | Limited         |
+| **NanoBot**   | Python     | Minimal (~4k LOC)      | Low       | Yes         | Minimal         |
+| **ZeroClaw**  | Rust       | Performance (<5 MB)    | <5 MB     | Yes         | Growing         |
+| **PicoClaw**  | Go         | Edge/IoT (<10 MB)      | <10 MB    | Yes         | Limited         |
+| **TrustClaw** | N/A        | Managed cloud security | N/A       | No          | Verified        |
+| **memU Bot**  | Python     | Memory / enterprise    | Moderate  | Yes         | Limited         |
 
 ## Which One Should You Choose?
 
