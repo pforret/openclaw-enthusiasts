@@ -91,6 +91,21 @@ An enterprise-ready alternative built around the memU agentic memory framework. 
 
 ---
 
+## [Agent Zero](agent-zero.md)
+
+An open-source agentic AI framework for building autonomous assistants that run on your own computer. Supports 10+ LLM providers, dynamic tool creation, and OS-level integration.
+
+**Key differences with OpenClaw:**
+
+- Focuses on autonomous task execution with self-correction and learning
+- Dynamic tool creation -- agents build their own tools on-the-fly
+- Context engineering optimized for both local and powerful models
+- Built-in RAG memory management
+- Supports OpenAI, Anthropic, Google Gemini, DeepSeek, Ollama, and more
+- Targets power-user workflows: pentesting, data analysis, research, software development
+
+---
+
 ## Comparison Table
 
 | Project       | Language   | Focus                  | RAM Usage | Self-hosted | Skill Ecosystem |
@@ -102,6 +117,7 @@ An enterprise-ready alternative built around the memU agentic memory framework. 
 | **ZeroClaw**  | Rust       | Performance (<5 MB)    | <5 MB     | Yes         | Growing         |
 | **PicoClaw**  | Go         | Edge/IoT (<10 MB)      | <10 MB    | Yes         | Limited         |
 | **memU Bot**  | Python     | Memory / enterprise    | Moderate  | Yes         | Limited         |
+| **Agent Zero**| Python     | Autonomous agents      | Moderate  | Yes         | Dynamic         |
 
 ## Which One Should You Choose?
 

@@ -1,6 +1,11 @@
 # OpenClaw Enthusiasts — Full Post Index
 
-> 22 blog posts about practical OpenClaw automation use cases.
+> 23 blog posts about practical OpenClaw automation use cases.
+
+## Automated Server Audit with Agent Zero
+- URL: https://openclaw.mkdox.com/blog/2026/03/agent-zero-automated-server-audit/
+- Date: 2026-03-06
+- Description: Use Agent Zero to autonomously audit your servers -- scanning for open ports, outdated packages, and misconfigurations -- and report findings to Slack.
 
 ## AI Sales Reporting Automation
 - URL: https://openclaw.mkdox.com/blog/2026/03/sales-reporting-automation/
